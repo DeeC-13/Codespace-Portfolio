@@ -1,0 +1,106 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-family: Cyreal;
+    font-size: 60px;
+    font-weight: 800;
+  }
+  
+h2 {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-family: Cyreal;
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+h5 {
+    text-align: center;
+    color: black;
+    font-family: Cyreal;
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+h6 {
+    color: rgba(0, 0, 0, 0.79);
+    font-family: Cyreal;
+    font-size: 20px;
+    text-align: left;
+    margin: 0px;
+    padding: 5px;
+  }  
+
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.nav-link  {
+    color: black;
+    &:hover{
+        color:black !important;
+      }
+  } 
+
+.btn {
+    font-family: Cyreal;
+    font-size: 20px;
+  }
+
+.time {
+    color: black;
+    margin: 10px;
+    padding: 20px;
+  }  
+  
+.container {
+    text-align: center;
+    font-family: Cyreal;
+  } 
+  
+.container-fluid{
+    text-align: center;
+    padding: -5px 0 0 10px;
+    font-family: Cyreal;
+    font-size: 20px;
+  } 
+
+#him-her {
+    padding: 20px;
+    font-style: italic;
+  }
+ 
+.card {
+    border-radius: 10px;
+  } 
+   
+.card-title {
+    font-family: Cyreal;
+    font-size: 25px;
+    font-weight: 600;
+  }
+ 
+.btn1 {
+    font-family: Cyreal;
+    font-size: 20px;
+    background-color: rgb(49, 128, 124);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+  }
+
+#product{
+    padding: 20px 50px 20px 50px;
+  }
+
+#end {
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }  

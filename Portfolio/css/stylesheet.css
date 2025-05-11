@@ -1,0 +1,171 @@
+
+h1 {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-family: Cyreal;
+    font-size: 60px;
+    font-weight: 800;
+  }
+
+h2 {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-family: Cyreal;
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+h5 {
+    text-align: center;
+    color: black;
+    font-family: Cyreal;
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+h6 {
+    color: rgba(0, 0, 0, 0.79);
+    font-family: Cyreal;
+    font-size: 20px;
+    text-align: left;
+    margin: 0px;
+    padding: 5px;
+  }
+
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.nav-link  {
+  color: black;
+  &:hover{
+    color:black !important;
+  }
+}   
+
+.time {
+    color: white;
+    margin: 10px;
+    padding: 20px;
+  }  
+
+p {
+    color: white;
+    text-align: center;
+    margin: 10px;
+    font-family: Cyreal;
+    font-size: 25px;
+    font-style: italic;
+  }
+
+.p1 {
+    color: white;
+    text-align: center;
+    padding: 0 50px 0px 50px;
+    margin: 25px;
+    font-family: Cyreal;
+    font-size: 25px;
+    font-style: italic;
+  }
+
+#watches {
+    height: 537px;
+    width: 100%;
+    margin: 35px 0px -200px 0;
+  }
+
+.carousel-item.active {
+    left: 0;
+    background-repeat: no-repeat;
+    transition: all 0.3s linear;
+  }
+
+div.carousel-inner img{
+    margin: auto;
+    width: auto;
+    vertical-align: middle;  
+  }
+
+.container {
+    padding: 10px;  
+  }
+ 
+#mk1 {
+    text-align: center;
+    padding: 20px;
+    margin: 0px 0 0px 0;
+  }
+
+#him-her {
+    text-align: center;
+    padding: 20px;
+    margin: 10px 0 0px 0;
+    font-family: Cyreal;
+    font-style: italic;
+    font-size: 50px;
+  }
+
+.container-fluid{
+    text-align: center;
+    padding: -5px 0 0 10px;
+    font-family: Cyreal;
+    font-size: 20px;
+  } 
+
+.img-fluid {
+    margin: 10px;
+    padding: 10px;
+  }
+
+.card {
+  border-radius: 10px;
+  }
+ 
+.card-title {
+    font-family: Cyreal;
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+.row1 {
+  padding-top: 20px;
+}  
+
+.btn {
+    font-family: Cyreal;
+    font-size: 20px;
+  }
+
+.btn1 {
+    font-family: Cyreal;
+    font-size: 20px;
+    background-color: rgb(49, 128, 124);
+    color: white;
+    border-radius: 10px;
+    margin: auto;
+    height: 40px;
+    padding: 10px 40px;
+    text-decoration:none;
+  }
+
+#range{
+    padding: 20px 50px 20px 50px;
+    margin: auto;
+  }
+
+#range1{
+    padding: 20px 50px 20px 50px;
+    margin: auto;
+  }
+
+#end {
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  } 
+
